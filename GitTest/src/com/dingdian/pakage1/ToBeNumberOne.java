@@ -4,6 +4,6 @@ public class ToBeNumberOne
 {
 	public static void main(String[] args)
 	{
-		System.out.println("成为世界第一");
+		System.out.println("练习");
 	}
 }
