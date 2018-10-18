@@ -4,6 +4,6 @@ public class ToBeNumberOne
 {
 	public static void main(String[] args)
 	{
-		System.out.println("练习");
+		System.out.println("this is test");
 	}
 }
