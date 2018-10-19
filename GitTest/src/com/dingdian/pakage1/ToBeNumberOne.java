@@ -4,6 +4,6 @@ public class ToBeNumberOne
 {
 	public static void main(String[] args)
 	{
-		System.out.println("this is test6");
+		System.out.println("this is test5");
 	}
 }
